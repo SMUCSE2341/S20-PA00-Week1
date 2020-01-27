@@ -1,7 +1,5 @@
 # Spring 2020 Project 00 - Lab Week One
 
-## Important Information:
-
 ## Input and Output Files
 
 As you begin using input files and output files with this project,
