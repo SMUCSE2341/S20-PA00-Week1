@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.14)
 project(S20-PA00-Week1)
-set (EXE_NAME HelloWorld)
+set (EXE_NAME WeekOne)
 
 ##########################################
 # Students, edit the items below.  In the quotes,
