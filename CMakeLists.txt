@@ -11,7 +11,7 @@ set (EXE_NAME HelloWorld)
 #   set (input02 "train_target.csv")
 # etc....
 
-set (input01 "")
+set (input01 "input01.txt")
 set (input02 "")
 set (input03 "")
 set (input04 "")
