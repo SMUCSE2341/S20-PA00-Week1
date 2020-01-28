@@ -14,6 +14,8 @@ int main(int argc, char **argv) {
       fout << n << std::endl;
     }
 
+
+    int test = 0;
     fin.close();
     fout.close();
 
